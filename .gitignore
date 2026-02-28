@@ -1,0 +1,32 @@
+# =========================
+# Project Global .gitignore
+# =========================
+
+# 1. Python Cache and Temporary Files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+.Python
+
+
+
+# 2. Environment and IDE configurations
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+.env
+venv/
+env/
+.ipynb_checkpoints/
+
+# 3. Large Data Files & Databases (Strictly ignored to prevent GitHub 100MB drops)
+# Prevents raw databases and massive feature matrices from being uploaded
+*.db
+*.sqlite
+*feature_data.csv
+
+

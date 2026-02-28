@@ -36,9 +36,5 @@ From `transformer_quant_strategy/`:
 - Run Optuna search:
   - `bash run_optuna.sh`
 
-## Notes
-
-- `run_experiment.sh` is deprecated and removed; use `run.sh` as the unified experiment entry.
-- The current package keeps only essential files for reproducibility and paper reporting.
 
 
