@@ -1,0 +1,25 @@
+# A-Share Quantitative Trading Strategy Based on Transformer Model
+# Python Dependencies List
+
+# Data Processing
+pandas>=1.5.0
+numpy>=1.23.0
+
+# Data Acquisition
+akshare>=1.10.0
+
+# Deep Learning
+torch>=2.0.0
+torchvision>=0.15.0
+
+# Machine Learning
+scikit-learn>=1.2.0
+
+# Visualization
+matplotlib>=3.6.0
+seaborn>=0.12.0
+mplfinance>=0.12.9
+
+# Other Tools
+tqdm>=4.64.0
+joblib>=1.2.0

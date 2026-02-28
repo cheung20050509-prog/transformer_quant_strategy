@@ -34,3 +34,4 @@ env/
 *.pth
 *.pt
 *.pkl
+output/feature_data.csv
