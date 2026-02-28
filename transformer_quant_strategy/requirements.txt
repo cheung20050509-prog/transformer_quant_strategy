@@ -1,0 +1,25 @@
+# 基于Transformer模型的A股量化交易策略
+# Python依赖包列表
+
+# 数据处理
+pandas>=1.5.0
+numpy>=1.23.0
+
+# 数据获取
+akshare>=1.10.0
+
+# 深度学习
+torch>=2.0.0
+torchvision>=0.15.0
+
+# 机器学习
+scikit-learn>=1.2.0
+
+# 可视化
+matplotlib>=3.6.0
+seaborn>=0.12.0
+mplfinance>=0.12.9
+
+# 其他工具
+tqdm>=4.64.0
+joblib>=1.2.0

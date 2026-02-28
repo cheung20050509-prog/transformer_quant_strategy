@@ -1,0 +1,2 @@
+model,direction_accuracy,total_return,annual_return,max_drawdown,sharpe_ratio,sortino_ratio,win_rate,profit_loss_ratio,total_trades,annual_volatility
+SignalOnly_NoModel,0.4872619623694173,0.14229972071172625,0.09540669467368224,0.12868331694072493,0.4299585033759563,0.4744415333137314,0.4139240506329114,1.689763868638923,790,0.1900245588119585

@@ -1,0 +1,103 @@
+\begin{thebibliography}{14}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Akiba et~al.(2019)Akiba, Sano, Yanase, Ohta, and
+  Koyama]{akiba2019optuna}
+Takuya Akiba, Shotaro Sano, Toshihiko Yanase, Takeru Ohta, and Masanori Koyama.
+\newblock Optuna: A next-generation hyperparameter optimization framework.
+\newblock \emph{Proceedings of the 25th ACM SIGKDD International Conference on
+  Knowledge Discovery \& Data Mining}, pages 2623--2631, 2019.
+
+\bibitem[Arlot and Celisse(2010)]{arlot2010survey}
+Sylvain Arlot and Alain Celisse.
+\newblock A survey of cross-validation procedures for model selection.
+\newblock \emph{Statistics Surveys}, 4:\penalty0 40--79, 2010.
+
+\bibitem[Ding et~al.(2020)Ding, Wu, Sun, Guo, and Guo]{ding2020hierarchical}
+Qianggang Ding, Sifan Wu, Hao Sun, Jiadong Guo, and Jian Guo.
+\newblock Hierarchical multi-scale gaussian transformer for stock movement
+  prediction.
+\newblock \emph{Proceedings of the Twenty-Ninth International Joint Conference
+  on Artificial Intelligence}, pages 4640--4646, 2020.
+
+\bibitem[Fischer and Krauss(2018)]{fischer2018deep}
+Thomas Fischer and Christopher Krauss.
+\newblock Deep learning with long short-term memory networks for financial
+  market predictions.
+\newblock \emph{European Journal of Operational Research}, 270\penalty0
+  (2):\penalty0 654--669, 2018.
+
+\bibitem[Hochreiter and Schmidhuber(1997)]{hochreiter1997lstm}
+Sepp Hochreiter and J{\"u}rgen Schmidhuber.
+\newblock Long short-term memory.
+\newblock \emph{Neural Computation}, 9\penalty0 (8):\penalty0 1735--1780, 1997.
+
+\bibitem[Kelly(1956)]{kelly1956new}
+John~L Kelly.
+\newblock A new interpretation of information rate.
+\newblock \emph{The Bell System Technical Journal}, 35\penalty0 (4):\penalty0
+  917--926, 1956.
+
+\bibitem[Liu et~al.(2024)Liu, Hu, Zhang, Wu, Wang, Ma, and
+  Long]{liu2024itransformer}
+Yong Liu, Tengge Hu, Haoran Zhang, Haixu Wu, Shiyu Wang, Lintao Ma, and
+  Mingsheng Long.
+\newblock itransformer: Inverted transformers are effective for time series
+  forecasting.
+\newblock In \emph{International Conference on Learning Representations
+  (ICLR)}, 2024.
+
+\bibitem[Murphy(1999)]{murphy1999technical}
+John~J Murphy.
+\newblock \emph{Technical Analysis of the Financial Markets: A Comprehensive
+  Guide to Trading Methods and Applications}.
+\newblock New York Institute of Finance, 1999.
+
+\bibitem[Nie et~al.(2023)Nie, Nguyen, Sinthong, and
+  Kalagnanam]{nie2023patchtst}
+Yuqi Nie, Nam~H Nguyen, Phanwadee Sinthong, and Jayant Kalagnanam.
+\newblock A time series is worth 64 words: Long-term forecasting with
+  transformers.
+\newblock \emph{International Conference on Learning Representations (ICLR)},
+  2023.
+
+\bibitem[Sharpe(1966)]{sharpe1966mutual}
+William~F Sharpe.
+\newblock Mutual fund performance.
+\newblock \emph{The Journal of Business}, 39\penalty0 (1):\penalty0 119--138,
+  1966.
+
+\bibitem[Vaswani et~al.(2017)Vaswani, Shazeer, Parmar, Uszkoreit, Jones, Gomez,
+  Kaiser, and Polosukhin]{vaswani2017attention}
+Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones,
+  Aidan~N Gomez, {\L}ukasz Kaiser, and Illia Polosukhin.
+\newblock Attention is all you need.
+\newblock \emph{Advances in Neural Information Processing Systems}, 30, 2017.
+
+\bibitem[Wu et~al.(2021)Wu, Xu, Wang, and Long]{wu2021autoformer}
+Haixu Wu, Jiehui Xu, Jianmin Wang, and Mingsheng Long.
+\newblock Autoformer: Decomposition transformers with auto-correlation for
+  long-term series forecasting.
+\newblock \emph{Advances in Neural Information Processing Systems},
+  34:\penalty0 22419--22430, 2021.
+
+\bibitem[Zhang et~al.(2022)Zhang, Qin, Zhang, Lin, and
+  Chen]{zhang2020transformer_stock}
+Qiuyue Zhang, Chao Qin, Wei Zhang, Fangzhen Lin, and Ling Chen.
+\newblock Transformer-based attention network for stock movement prediction.
+\newblock \emph{Expert Systems with Applications}, 202:\penalty0 117239, 2022.
+
+\bibitem[Zhou et~al.(2021)Zhou, Zhang, Peng, Zhang, Li, Xiong, and
+  Zhang]{zhou2021informer}
+Haoyi Zhou, Shanghang Zhang, Jieqi Peng, Shuai Zhang, Jianxin Li, Hui Xiong,
+  and Wancai Zhang.
+\newblock Informer: Beyond efficient transformer for long sequence time-series
+  forecasting.
+\newblock \emph{Proceedings of the AAAI Conference on Artificial Intelligence},
+  35\penalty0 (12):\penalty0 11106--11115, 2021.
+
+\end{thebibliography}

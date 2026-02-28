@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.so
+
+# 数据文件（太大不提交）
+*.db
+*.sqlite
+*.csv
+
+# 输出文件
+output/
+*.png
+*.jpg
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# 环境
+.env
+venv/
+env/
+
+# 模型文件
+*.pth
+*.pt
+*.pkl
