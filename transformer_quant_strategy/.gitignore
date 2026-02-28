@@ -9,11 +9,8 @@ __pycache__/
 # 数据文件（太大不提交）
 *.db
 *.sqlite
-*.csv
 
 # 输出文件
-output/
-*.png
 *.jpg
 
 # Jupyter
@@ -31,7 +28,5 @@ venv/
 env/
 
 # 模型文件
-*.pth
-*.pt
-*.pkl
 output/feature_data.csv
+*.db

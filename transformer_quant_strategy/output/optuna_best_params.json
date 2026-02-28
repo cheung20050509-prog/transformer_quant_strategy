@@ -1,0 +1,35 @@
+{
+  "source": "phase2",
+  "trial": 62,
+  "score": -0.30214761648022354,
+  "model": {
+    "d_model": 128,
+    "d_ff": 512,
+    "n_heads": 8,
+    "n_layers": 4,
+    "seq_length": 60,
+    "dropout": 0.32789541157398283,
+    "learning_rate": 6.761998240315495e-05,
+    "batch_size": 256,
+    "epochs": 240
+  },
+  "strategy": {
+    "buy_threshold": 1.2575196137543794,
+    "sell_threshold": -0.8948270231542578,
+    "stop_loss_ratio": 0.027017853026962177,
+    "take_profit_ratio": 0.1399672217462356,
+    "max_position_ratio": 0.37333059842854627
+  },
+  "performance_val": {
+    "annual_return": -0.06337916016069141,
+    "max_drawdown": 0.1056549885160637,
+    "sharpe_ratio": -0.41030941702303864,
+    "win_rate": 0.4065573770491803
+  },
+  "performance_test": {
+    "annual_return": 0.08585990704813562,
+    "max_drawdown": 0.1700822402010683,
+    "sharpe_ratio": 0.3139507064271335,
+    "win_rate": 0.5111111111111111
+  }
+}
