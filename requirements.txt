@@ -1,0 +1,16 @@
+# Core numerical stack
+numpy>=1.23.0
+pandas>=1.5.0
+
+# Machine learning / deep learning
+scikit-learn>=1.2.0
+torch>=2.0.0
+
+# Hyperparameter optimization
+optuna>=3.0.0
+
+# Data source
+tushare>=1.2.0
+
+# Visualization
+matplotlib>=3.6.0
