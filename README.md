@@ -49,6 +49,17 @@ Python version recommendation:
 
 ## How to Run
 
+## Minimal Reproduction (3 Commands)
+
+```bash
+pip install -r requirements.txt
+cd transformer_quant_strategy
+bash run.sh
+```
+
+This will generate the main experiment outputs in `transformer_quant_strategy/output/`,
+including `performance_metrics.csv`, `strategy_comparison.csv`, and `trade_log.csv`.
+
 ### 1) Main Experiment
 
 ```bash
