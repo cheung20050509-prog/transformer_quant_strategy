@@ -47,9 +47,7 @@ Python version recommendation:
 
 - Python 3.10+
 
-## How to Run
-
-## Minimal Reproduction (3 Commands)
+## Minimal Reproduction (Main Experiment, 3 Commands)
 
 ```bash
 pip install -r requirements.txt
@@ -59,6 +57,19 @@ bash run.sh
 
 This will generate the main experiment outputs in `transformer_quant_strategy/output/`,
 including `performance_metrics.csv`, `strategy_comparison.csv`, and `trade_log.csv`.
+
+## Minimal Reproduction (Ablation, 2 Commands)
+
+```bash
+cd transformer_quant_strategy_abl
+python signal_only_ablation.py
+```
+
+This will generate ablation outputs in `transformer_quant_strategy_abl/output_signal_only/`,
+including `fair_main_window_comparison.csv`, `signal_only_equity_curve_main_window.csv`,
+and `signal_only_signals_main_window.csv`.
+
+## How to Run (Detailed)
 
 ### 1) Main Experiment
 
