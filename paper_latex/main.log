@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2026.2.26)  28 FEB 2026 18:31
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2026.2.26)  28 FEB 2026 19:14
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -624,12 +624,12 @@ Package hyperref Info: bookmark level for unknown algorithm defaults to 0 on in
 put line 734.
  [29] [30] (./main.aux)
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 327D0AFED652172E7ABEA317F142686E;8539.
+(rerunfilecheck)             Checksum: 125FA510E981D56F8B2878AFB281F919;8420.
  ) 
 Here is how much of TeX's memory you used:
  13519 strings out of 479654
  212746 string characters out of 5883416
- 503634 words of memory out of 5000000
+ 503612 words of memory out of 5000000
  31235 multiletter control sequences out of 15000+600000
  492918 words of font info for 90 fonts, out of 8000000 for 9000
  309 hyphenation exceptions out of 8191
@@ -662,7 +662,7 @@ ts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cm
 sy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pf
 b></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb
 >
-Output written on main.pdf (30 pages, 728005 bytes).
+Output written on main.pdf (30 pages, 727969 bytes).
 PDF statistics:
  1385 PDF objects out of 1440 (max. 8388607)
  649 compressed objects within 7 object streams
